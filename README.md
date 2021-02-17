@@ -1,4 +1,4 @@
-# ProgramNilaiMinimum_GeneticAlgorithm
+# MinimumValue_Using_GeneticAlgorithm
 
 This Program using Python Languange
 How to :
